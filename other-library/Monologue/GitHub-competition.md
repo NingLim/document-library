@@ -99,8 +99,8 @@
 | 2. teachat8 | [teachat8](https://github.com/teachat8/document-library/blob/master/other-library/RecordDailyGrowth/2019-10.md) | 能写 Vue 组件 |
 | 3. 黄敏坚 | [huangminjianxx](https://github.com/huangminjianxx/LearningRecord/) | 11 月找到实习 |
 | 4. apple | [donaf](https://github.com/donaf/daydayup/blob/master/logs/2019-10.md) |  |
-| 5. 浓茶 | [NingZhuo](https://github.com/NingZhuo/Note) | 年前跳槽 |
-| 5. lien | [LienJack](https://github.com/LienJack/daliy-study/blob/master/201910/14-20.md) | 深入 Vue 源码 |
+| 5. 浓茶 | [NingZhuo](https://github.com/NingZhuo/Log/blob/master/Log.md) | 年前跳槽 |
+| 6. lien | [LienJack](https://github.com/LienJack/daliy-study/blob/master/201910/14-20.md) | 深入 Vue 源码 |
 
 ## 五 参赛记录和漏卡记录
 
